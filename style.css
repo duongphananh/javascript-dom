@@ -1,0 +1,8 @@
+.btn {
+    border: 1px solid #000;
+}
+.btn-primary {
+    border: 1px solid red;
+    background: red;
+    color: #fff;
+}
